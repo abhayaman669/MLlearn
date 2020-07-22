@@ -1,5 +1,8 @@
 # MLlearn  
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 **ML Learning Track**
 
 Here are all the courses and resources that we will be using and also we will update it from time to time. We are going to use python.
