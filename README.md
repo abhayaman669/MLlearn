@@ -8,6 +8,8 @@ Here are all the courses and resources that we will be using and also we will up
 
 - [Machine Learning by Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning/home/welcome)
 
+---
+
 # Contributers
-> If you are contributing first time please add your github avatar and link your github account on  that.
+> If you are contributing first time please add your github avatar and link your github account on  that.  
 [![](https://avatars1.githubusercontent.com/u/24496584?size=50)](https://github.com/abhayaman669)
