@@ -9,12 +9,12 @@ The Definition by **Arthur Samuel** is old whereas **Tom Mitchell** provides mor
 
 ## Examples for ML based on **Tom Mitchell** definition
 *Add more examples for this*
->   Playing Checkers
-E = the experience of playing many games of checkers.
-T = the task of playing checkers.
-P = the probability that the program will win the next game.
+>   Playing Checkers  
+E = the experience of playing many games of checkers.  
+T = the task of playing checkers.  
+P = the probability that the program will win the next game.  
 ---
->   Email Spam Filter
-E = watching a user lable emails as spam or not.
-T = classifing email as spam or not.
-P = the number of emails correctly classified as spam or not spam.
+>   Email Spam Filter  
+E = watching a user lable emails as spam or not.  
+T = classifing email as spam or not.  
+P = the number of emails correctly classified as spam or not spam.  
