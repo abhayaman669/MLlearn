@@ -14,16 +14,16 @@ For this let us take an example, here we have data related to the land area and 
 
 Here the input variable for us is **area** and output variable is the **price** of that land. Notation for the input and output will be as follows:
 
-**x<sup>(i)</sup>**: Input value.
-**y<sup>(i)</sup>**: Output value.
-**(x<sup>(i)</sup>, y<sup>(i)</sup>)**: Training example.
-**m**: Total no. of dataset that we have.
-**Y**: Space of input values.
-**X**: Space of output values.
+**x<sup>(i)</sup>**: Input value.  
+**y<sup>(i)</sup>**: Output value.  
+**(x<sup>(i)</sup>, y<sup>(i)</sup>)**: Training example.  
+**m**: Total no. of dataset that we have.  
+**Y**: Space of input values.  
+**X**: Space of output values.  
 
 Here is process for generating a **hypothesis** function.
 
-![](assets/modal_representation_diag.png)
+![](../assets/modal_representation_diag.png)
 
 TODO: *Write a simple and elobrated explaination for the above diagram*
 
