@@ -4,6 +4,6 @@ Here are list of topics that you will be learning in this course with that there
 
 - [What is Machine Learning?](notes/1_what_is_machine_learning.md)
 - [Supervised Learning.](notes/2_supervised_learning.md)
-- Unsupervised Learning.
+- [Unsupervised Learning.](notes/3_unsupervised_learning.md)
 - Model Representation.
 - Cost Function.

@@ -32,5 +32,5 @@ P = the number of emails correctly classified as spam or not spam.
 Mainly there are three type of ML algorithms
 
 1. [Supervised Learning](2_supervised_learning.md)
-2. Unsupervised Learning
+2. [Unsupervised Learning](3_unsupervised_learning.md)
 3. Reinforcement Learning
