@@ -26,3 +26,11 @@ E = watching a user lable emails as spam or not.
 T = classifing email as spam or not.  
 P = the number of emails correctly classified as spam or not spam.
 ```
+
+## Types of machine learning
+
+Mainly there are three type of ML algorithms
+
+1. [Supervised Learning](2_supervised_learning.md)
+2. Unsupervised Learning
+3. Reinforcement Learning
