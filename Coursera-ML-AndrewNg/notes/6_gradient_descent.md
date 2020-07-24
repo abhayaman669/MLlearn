@@ -1,7 +1,7 @@
 # Gradient Descent
 
 - [Gradient Descent](#gradient-descent)
-  - [What is Gradient Descent?](#what-is-gradient-descent?)
+  - [What is Gradient Descent?](#what-is-gradient-descent)
   - [Step in Gradient Descent](#step-in-gradient-descent)
   - [Algorithm for Gradient Descent](#algorithm-for-gradient-descent)
 
