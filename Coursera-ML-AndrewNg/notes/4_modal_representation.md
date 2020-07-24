@@ -16,7 +16,7 @@ Here the input variable for us is **area** and output variable is the **price** 
 
 **x<sup>(i)</sup>**: Input value.  
 **y<sup>(i)</sup>**: Output value.  
-**(x<sup>(i)</sup>, y<sup>(i)</sup>)**: Training example.  
+**(x<sup>(i)</sup>, y<sup>(i)</sup>)**: i<sup>th</sup> Training example.  
 **m**: Total no. of dataset that we have.  
 **Y**: Space of input values.  
 **X**: Space of output values.  
@@ -27,3 +27,8 @@ Here is process for generating a **hypothesis** function.
 
 TODO: *Write a simple and elobrated explaination for the above diagram*
 
+**How do we represent h?**
+
+h<sub>&theta;</sub>(x) =  &theta;<sub>0</sub> + &theta;<sub>1</sub>.x
+
+This model is known as **Linear Regression with One Variable** or **Univariate Linear Regression** model.
