@@ -15,22 +15,22 @@ TODO: *Add examples for different hypothesis function with their graph*
 
 We need to choose &theta;<sub>0</sub> and &theta;<sub>1</sub> so that h<sub>&theta;</sub>(x) is close to y for our training examples (x, y)
 
-minimize &theta;<sub>0</sub> &theta;<sub>1</sub> = h<sub>&theta;</sub>(x) - y
+*minimize &theta;<sub>0</sub> &theta;<sub>1</sub> = h<sub>&theta;</sub>(x) - y*
 
 lets try to minimize the square difference
 
-minimize &theta;<sub>0</sub> &theta;<sub>1</sub> = (h<sub>&theta;</sub>(x) - y)<sup>2</sup>
+*minimize &theta;<sub>0</sub> &theta;<sub>1</sub> = (h<sub>&theta;</sub>(x) - y)<sup>2</sup>*
 
 To represent a particular training example
 
-minimize &theta;<sub>0</sub> &theta;<sub>1</sub> = (h<sub>&theta;</sub>(x<sup>(i)</sup>) - y<sup>(i)</sup>)<sup>2</sup>
+*minimize &theta;<sub>0</sub> &theta;<sub>1</sub> = (h<sub>&theta;</sub>(x<sup>(i)</sup>) - y<sup>(i)</sup>)<sup>2</sup>*
 
 Let's add up all the training examples
-minimize &theta;<sub>0</sub> &theta;<sub>1</sub> = (m&Sigma;i=1)(h<sub>&theta;</sub>(x<sup>(i)</sup>) - y<sup>(i)</sup>)<sup>2</sup>
+*minimize &theta;<sub>0</sub> &theta;<sub>1</sub> = (m&Sigma;i=1)(h<sub>&theta;</sub>(x<sup>(i)</sup>) - y<sup>(i)</sup>)<sup>2</sup>*
 
 Finally, let's take it's average and make it half
 
-minimize &theta;<sub>0</sub> &theta;<sub>1</sub> = 1/(2m)(m&Sigma;i=1)(h<sub>&theta;</sub>(x<sup>(i)</sup>) - y<sup>i</sup>)<sup>2</sup>
+*minimize &theta;<sub>0</sub> &theta;<sub>1</sub> = 1/(2m)(m&Sigma;i=1)(h<sub>&theta;</sub>(x<sup>(i)</sup>) - y<sup>i</sup>)<sup>2</sup>*
 
 here h<sub>&theta;</sub>(x<sup>(i)</sup>) =  &theta;<sub>0</sub> + &theta;<sub>1</sub>.x<sup>(i)</sup>
 
