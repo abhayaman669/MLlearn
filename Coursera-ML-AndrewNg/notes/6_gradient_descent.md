@@ -1,5 +1,9 @@
 # Gradient Descent
 
+- [Gradient Descent](#gradient-descent)
+  - [Step in Gradient Descent](#step-in-gradient-descent)
+  - [Algorithm for Gradient Descent](#algorithm-for-gradient-descent)
+
 **Gradient descent** is an algorithm used for minimizing cost function. This algorithm is used in all over the place in ML.
 
 We have some function J(&theta;<sub>0</sub>, &theta;<sub>1</sub>)

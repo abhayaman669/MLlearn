@@ -6,4 +6,5 @@ Here are list of topics that you will be learning in this course with that there
 - [Supervised Learning.](notes/2_supervised_learning.md)
 - [Unsupervised Learning.](notes/3_unsupervised_learning.md)
 - [Model Representation.](notes/4_modal_representation.md)
-- Cost Function.
+- [Cost Function.](notes/5_cost_function.md)
+- [Gradient Descent.](notes/6_gradient_descent.md)
