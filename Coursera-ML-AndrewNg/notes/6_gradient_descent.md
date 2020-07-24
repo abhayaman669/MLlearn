@@ -32,3 +32,11 @@ Here we have different minimum points in the graph let's call them local minimum
 repeat until convergence:
 
 &theta;<sub>j</sub> := &theta;<sub>j</sub> - &alpha &part;/(&part;&theta;<sub>j</sub>).J(&theta;<sub>0</sub>), &theta;<sub>1</sub>
+
+where j = 0,1 represent the feature index number.
+
+>All the parameters should be update simultaneously
+i.e
+first use j=0 in the gradient descent
+then use j=1 in the gradient descent
+now set the value's for both the theta
