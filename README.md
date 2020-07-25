@@ -20,9 +20,9 @@ The current structure of the project
 assets (this is the global assets folder that is used for the main README file)
 course_name
   |
-  |--------> notes (this will contain all the notes for this particular course)
-  |--------> assets (this will contain all the images that are used in this course notes)
-  |--------> README.md (Give the details about the course and links for the topics discussed in the course notes)
+  |--------> notes (Contain all the notes for this particular course)
+  |--------> assets (Contain all the images that are used in this course notes)
+  |--------> README.md (Details about the course and links for the topics discussed)
 ```
 
 
