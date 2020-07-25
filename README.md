@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.python.org/"><img src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
   <a href="https://github.com/abhayaman669/MLlearn"><img src="https://forthebadge.com/images/badges/built-with-love.svg"></a>
+  <img src="https://forthebadge.com/images/badges/built-by-developers.svg">
 </p>
 
 <br>
