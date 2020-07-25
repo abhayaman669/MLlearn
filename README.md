@@ -1,9 +1,13 @@
 <p align="center"><a href="https://github.com/abhayaman669/MLlearn"><img src="https://github.com/abhayaman669/MLlearn/blob/master/assets/logo.png"></a></p>
 
+<br>
+
 <p align="center">
   <a href="https://www.python.org/"><img src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
   <a href="https://github.com/abhayaman669/MLlearn"><img src="https://forthebadge.com/images/badges/built-with-love.svg"></a>
 </p>
+
+<br>
 
 **ML Learning Track**
 
