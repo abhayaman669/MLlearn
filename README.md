@@ -1,9 +1,9 @@
-# MLlearn 
-
 <p align="center"><a href="https://github.com/abhayaman669/MLlearn"><img src="https://github.com/abhayaman669/MLlearn/blob/master/assets/logo.png"></a></p>
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/abhayaman669/MLlearn)
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
+  <a href="https://github.com/abhayaman669/MLlearn"><img src="https://forthebadge.com/images/badges/built-with-love.svg"></a>
+</p>
 
 **ML Learning Track**
 
