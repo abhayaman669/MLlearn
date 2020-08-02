@@ -11,3 +11,4 @@ Here are list of topics that you will be learning in this course with that there
     - [Gradient Descent.](notes/week1/6_gradient_descent.md)
 - Week 2
     - [Multiple Features.](notes/week2/1_multiple_features.md)
+    - [Gradient Descent with Multiple Features.](notes/week2/2_gradient_descent_with_multiple_feature.md)
