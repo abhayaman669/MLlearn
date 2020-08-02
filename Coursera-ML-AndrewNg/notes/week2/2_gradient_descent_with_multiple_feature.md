@@ -12,8 +12,8 @@ So our cost function will be now
 
 gradient descent
 
-![](../../gradient_descent.png)
+![](../../assets/gradient_descent.png)
 
 and for multiple features
 
-![](../../gradient_descent_mf.png)
+![](../../assets/gradient_descent_mf.png)
