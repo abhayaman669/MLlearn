@@ -9,3 +9,5 @@ Here are list of topics that you will be learning in this course with that there
     - [Model Representation.](notes/week1/4_modal_representation.md)
     - [Cost Function.](notes/week1/5_cost_function.md)
     - [Gradient Descent.](notes/week1/6_gradient_descent.md)
+- Week 2
+    - [Multiple Features.](notes/week2/1_multiple_features.md)
