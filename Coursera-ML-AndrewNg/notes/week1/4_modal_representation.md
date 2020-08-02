@@ -23,7 +23,7 @@ Here the input variable for us is **area** and output variable is the **price** 
 
 Here is process for generating a **hypothesis** function.
 
-![](../assets/modal_representation_diag.png)
+![](../../assets/modal_representation_diag.png)
 
 TODO: *Write a simple and elobrated explaination for the above diagram*
 

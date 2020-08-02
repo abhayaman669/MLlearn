@@ -18,7 +18,7 @@ In gradient descent these are the steps that we need to follow:
 
 Let's take this graph
 
-![](../assets/gradient_descent_3d_graph.png)
+![](../../assets/gradient_descent_3d_graph.png)
 
 *This graph is from coursera ml course*
 
