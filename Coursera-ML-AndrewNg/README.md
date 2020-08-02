@@ -12,3 +12,8 @@ Here are list of topics that you will be learning in this course with that there
 - Week 2
     - [Multiple Features.](notes/week2/1_multiple_features.md)
     - [Gradient Descent with Multiple Features.](notes/week2/2_gradient_descent_with_multiple_feature.md)
+    - Gradient Descent In Practice
+    - Polynomial Regression
+    - Normal Equation
+    - Normal Equation Noninvertability
+    
