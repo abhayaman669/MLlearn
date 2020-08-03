@@ -6,9 +6,9 @@ so, in the data we have given the **width** and **height** of the houses and we 
 so, in this case  
 x<sub>3</sub> = x<sub>1</sub> * x<sub>2</sub>  
 
-Sometime, by defining new feature you can get a better model.  
+*Sometime, by defining new feature you can get a better model.*  
 
-Also in case if the normal hypothesis function dosen't fit the data well you can also change the behaviour or curve of your hypothesis function by making it a qudratic, cubic or square root func<sup>n</sup>
+Also in case if the normal hypothesis function dosen't fit the data well you can also **change the behaviour or curve of your hypothesis function** by making it a *qudratic*, *cubic* or *square root* func<sup>n</sup>
 
 let, our hypothesis func<sup>n</sup>
 
