@@ -9,7 +9,7 @@ and, x<sub>2</sub> = no. of bedroom = 0 - 5
 
 If we plot cost function graph for this the graph will be very skinny as given in the image below. If we run gradient descent on this cost function, it will take long time to find the minimum value.
 
-<!-- Add image -->
+![](../../assets/steep_cost_func_graph.png)
 
 To fix this issue we can scale the feature. for that we can use this fourmular
 
