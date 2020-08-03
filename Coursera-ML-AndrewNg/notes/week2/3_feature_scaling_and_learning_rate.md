@@ -1,4 +1,6 @@
-# Feature Scaling
+# Feature Scaling & Learning Rate
+
+## Learning Rate
 
 In feature scaling we make sure that all the features are on a similar scale.
 
@@ -33,3 +35,12 @@ here
 
 &#956; is the average of all the values for feature x<sub>i</sub>
 
+## Learning Rate
+
+We need to always make sure that our gradient descent is working correctly, to check this we need to see that if our cost function J(&theta;) is decreasing after every iteration.
+
+- If our &alpha; is very low then we can have slow convergence i.e. it will take large no. of iteration.
+
+- If our &alpha; is high then the cost function J(&theta;) can overshoot itself.
+
+Always try to choose the value of alpa like 0.001, 0.003, 0.01, 0.03, 0.1, 0.3, 1, ...
