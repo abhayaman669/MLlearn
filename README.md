@@ -21,6 +21,9 @@ assets (this is the global assets folder that is used for the main README file)
 course_name
   |
   |--------> notes (Contain all the notes for this particular course)
+  |           |--------> week1
+  |           |--------> ...
+  |           |--------> weekN
   |--------> assets (Contain all the images that are used in this course notes)
   |--------> README.md (Details about the course and links for the topics discussed)
 ```
