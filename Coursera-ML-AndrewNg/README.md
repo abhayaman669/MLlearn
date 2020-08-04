@@ -14,6 +14,6 @@ Here are list of topics that you will be learning in this course with that there
     - [Gradient Descent with Multiple Features.](notes/week2/2_gradient_descent_with_multiple_feature.md)
     - [Feature Scaling and Learning Rate](notes/week2/3_feature_scaling_and_learning_rate.md)
     - [Polynomial Regression](notes/week2/4_polynomial_regression.md)
-    - [Normal Equation](notes/week2/3_normal_equation.md)
+    - [Normal Equation](notes/week2/5_normal_equation.md)
     - Normal Equation Noninvertability
 
