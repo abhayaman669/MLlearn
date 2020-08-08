@@ -16,33 +16,42 @@ To add comment use *percent(%)*.
 
 ## Print / Display
 
+![](../../assets/display_octave.png)
+
+you can also use sprintf() 
+
 ```
->>> variable_name
->>> disp(variable_name)
 >>> disp(sprintf('2 decimals: %0.2f', a))
 ```
 
 ## Changing Format
 
-```
->>> format long  % 3.141592653589789
->>> format short % 3.1416
-```
+![](../../assets/changing_format.png)
 
 ## Matrix
 
-```
->>> A = [1,3; 4,6]
-  1  3
-  4  6 
->>> A = [1:1:3; 4:1:6]
-  1  2  3
-  4  5  6
-```
-*semicolon(;) tells the end of row.*  
-*start_value:increment_value:end_value or start_value:end_value it will increment by one.*  
+Creating a normal matrix  
 
-for creating a matrix of ones you can use **ones(rows, cols)**  
-similarly there is function **zeros(rows, cols)** to generate matrix containing only zeros.  
-**rand(rows, cols)** will generate a matrix with random values between 0 and 1.  
-**eye(int)** will generate an index matrix.  
+![](../../assets/normal_matrix.png)
+
+*semicolon(;) tells the end of row.*  
+
+Using **start_value:increment_value:end_value** to create matrix
+
+![](../../assets/matrix_using_colon.png)
+
+Creating a matrix containing only ones using **ones()**  
+
+![](../../assets/ones_matrix.png)
+
+Generating matrix containing only zeros using **zeros(rows, cols)** function.  
+
+![](../../assets/zeros_matrix.png)
+
+Matrix with random numbers
+
+![](../../assets/random_matrix.png)
+
+Generating indentity matrix
+
+![](../../assets/eye_matrix.png)
