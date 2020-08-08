@@ -12,7 +12,7 @@ To add comment use *percent(%)*.
 
 ## Assigning variable
 
-![](../../assets/assignment_operation.png)
+![](../../assets/assignment_operations.png)
 
 ## Print / Display
 
