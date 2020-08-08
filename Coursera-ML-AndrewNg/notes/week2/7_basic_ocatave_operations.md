@@ -50,4 +50,7 @@ Generating indentity matrix
 
 ![](../../assets/eye_matrix.png)
 
-<p align="center">If you want to run octave code online <a href="https://octave-online.net/" target="_blank">click here</a></p>
+<p align="center">
+    If you want to run octave code online <a href="https://octave-online.net/">click here</a><br>
+    (use ctrl to open link in new tab &#128077;)
+</p>
