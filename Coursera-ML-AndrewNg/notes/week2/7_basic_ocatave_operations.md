@@ -1,5 +1,9 @@
 # Basic Operations
 
+Here are some of the basics operations that you will use in octave.
+
+- [List of all the octave functions](https://octave.sourceforge.io/list_functions.php)
+
 ## Arthemic Operation
 
 ![](../../assets/arth_operation.png)
