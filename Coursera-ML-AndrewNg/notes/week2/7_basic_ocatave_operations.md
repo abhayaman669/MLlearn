@@ -58,6 +58,18 @@ Size related functions
 
 ![](../../assets/matrix_size.png)
 
+Manupulating matrix
+
+![](../../assets/matrix_operation.png)
+
+Appending Matrix
+
+![](../../assets/appending_matrix.png)
+
+Converting matrix to vector
+
+![](../../assets/matrix_to_vector.png)
+
 <p align="center">
     If you want to run octave code online <a href="https://octave-online.net/">click here</a><br>
     (use ctrl to open link in new tab &#128077;)
