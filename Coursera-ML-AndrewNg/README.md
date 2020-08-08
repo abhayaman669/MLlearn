@@ -17,4 +17,4 @@ Here are list of topics that you will be learning in this course with that there
     - [Normal Equation](notes/week2/5_normal_equation.md)
     - Normal Equation Noninvertability
     - [Basic Matlab/Octave operation](notes/week2/7_basic_ocatave_operations.md)
-
+    - [Moving Data Around](notes/week2/8_moving_data_around.md)
