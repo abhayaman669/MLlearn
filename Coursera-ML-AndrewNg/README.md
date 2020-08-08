@@ -16,5 +16,5 @@ Here are list of topics that you will be learning in this course with that there
     - [Polynomial Regression](notes/week2/4_polynomial_regression.md)
     - [Normal Equation](notes/week2/5_normal_equation.md)
     - Normal Equation Noninvertability
-    - [Basic Matlab/Ocatave operation](notes/week2/7_basic_ocatave_operations.md)
+    - [Basic Matlab/Octave operation](notes/week2/7_basic_ocatave_operations.md)
 

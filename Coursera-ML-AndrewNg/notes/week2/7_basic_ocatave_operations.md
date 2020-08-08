@@ -1,6 +1,6 @@
 # Basic Operations
 
-**Arthemic Operation**
+## Arthemic Operation
 
 ![](../../assets/arth_operation.png)
 
@@ -10,11 +10,11 @@ If you add *semicolon(;)* at the end, then it will not display the output.
 
 To add comment use *percent(%)*.
 
-**Assigning variable**
+## Assigning variable
 
 ![](../../assets/assignment_operation.png)
 
-**Print / Display**
+## Print / Display
 
 ```
 >>> variable_name
@@ -22,14 +22,14 @@ To add comment use *percent(%)*.
 >>> disp(sprintf('2 decimals: %0.2f', a))
 ```
 
-**Changing Format**
+## Changing Format
 
 ```
 >>> format long  % 3.141592653589789
 >>> format short % 3.1416
 ```
 
-**Matrix**
+## Matrix
 
 ```
 >>> A = [1,3; 4,6]
