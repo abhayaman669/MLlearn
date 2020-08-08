@@ -18,12 +18,6 @@ To add comment use *percent(%)*.
 
 ![](../../assets/display_octave.png)
 
-you can also use sprintf() 
-
-```
->>> disp(sprintf('2 decimals: %0.2f', a))
-```
-
 ## Changing Format
 
 ![](../../assets/changing_format.png)
